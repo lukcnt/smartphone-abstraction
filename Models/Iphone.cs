@@ -14,7 +14,7 @@ namespace smartphone_abstraction.Models
 
         public override void InstallApp(string appName)
         {
-            Console.WriteLine($"Installing application {appName} for Iphone");
+            Console.WriteLine($"Installing application {appName} for Iphone.");
         }
     }
 }
